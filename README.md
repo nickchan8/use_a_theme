@@ -3,6 +3,6 @@
 ## Who am I?
 I am Alejandro
 
-##what are my favorite colors?
+# what are my favorite colors?
 
 -Blue
